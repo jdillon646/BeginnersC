@@ -1,4 +1,6 @@
 node_modules
 *.db
+Thumbs.db
+ehthumbs.db
 .grunt
 /_book/
