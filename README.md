@@ -1,7 +1,7 @@
 A beginners guide to programming using C.
 ======
 
-This book is for the absolite beginner and serves as a introduction
+This book is for the absolute beginner and serves as a introduction
 into the vast and magical world of computer programming. By the end
 of this book you will have earned your beginners wand, which allows
 you cast entry-level spells and incantations. 
